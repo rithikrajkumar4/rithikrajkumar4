@@ -4,7 +4,7 @@
 
 ### I'm a Final year under-grad in Computer Science at College of Engineering, Roorkee, learning and exploring stuffs!
 
-- 🔭 I’m currently working on Flutter,Dart,Firebase,Python,Javascript.
+- 🔭 I’m currently working on Flutter,Dart,Firebase,Python,Javascript,React.js,Node.js.
 - 🚀 Looking to collaborate with other developers🦖.
 - 🥅 2023 Goals: Expertise in web development, contribute to Open Source projects and Having Fun 🍤!
 - 💙Hobbies: I listen to all kind of music and i binge-watch Animes, Movies and TV series! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/google/313/rolling-on-the-floor-laughing_1f923.png" width="20px">
