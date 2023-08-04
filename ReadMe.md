@@ -2,7 +2,7 @@
 
 [linkedin]: https://www.linkedin.com/in/rrk4
 
-### My name is Rithik Rajkumar, a programming enthusiast and a Computer Science Engineering graudate. I love to learn new things and to be up to date with my tech stack. I'm a full-stack developer with experience in various frontend/backend frameworks!!!
+### A programming enthusiast and a Computer Science Engineering graudate. I love to learn new things and to be up to date with my tech stack. I'm a full-stack developer with experience in various frontend/backend frameworks!!!
 
 - 🔭 I’m currently working as a freelancer in Javascript with MongoDB,ExpressJS,ReactJS,NodeJS  stacks.
 - 🦾 Good at Data Structure and Algorithm (DSA) in C++.
