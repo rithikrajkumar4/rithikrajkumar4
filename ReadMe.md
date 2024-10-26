@@ -4,10 +4,10 @@
 
 ### A programming enthusiast and a Computer Science Engineering graudate. I love to learn new things and to be up to date with my tech stack. I'm a full-stack developer with experience in various frontend/backend frameworks!!!
 
-- 🔭 I’m currently working as a freelancer in Javascript with MongoDB,ExpressJS,ReactJS,NextJS,NodeJS stacks.
+- 🔭 I’m currently working in Javascript/Typescript with MongoDB,ExpressJS,ReactJS,NextJS,NodeJS stacks.
 - 🦾 Good at Data Structure and Algorithm (DSA) in C++.
 - 🚀 Looking to collaborate with other developers🦖.
-- 🥅 2023 Goals: Expertise in web development, contribute to Open Source projects and Having Fun 🍤!
+- 🥅 2025 Goals: Expertise in web development, contribute to Open Source projects and Having Fun 🍤!
 - 💙Hobbies: I listen to all kind of music and i binge-watch Animes, Movies and TV series! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/google/313/rolling-on-the-floor-laughing_1f923.png" width="20px">
 <br>
 
