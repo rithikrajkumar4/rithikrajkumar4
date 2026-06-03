@@ -10,6 +10,12 @@
 - Delivered a healthcare platform for Italian hospitals with SSR, CMS-driven content, and RBAC
 - Developed a multi-role artist & venue marketplace with GraphQL, BullMQ, Redis, and real-time messaging
 
+### Some Live Projects
+1. [Trvble](https://www.trvble.com/)
+2. [Rent Anything Store](https://www.rentanythingstore.com/)
+3. [Direzione](https://direzione.art/)
+4. [TurnoutHQ](https://www.turnouthq.com/)
+
 ### Beyond shipping products, I actively mentor junior developers, review PRs, and care deeply about code quality and system design. I’ve also solved 1,000+ DSA problems and rank in the top 10% of Node.js coders on Credmark.
 
 - 🔭 I’m currently working in Javascript/Typescript with MongoDB,ExpressJS,ReactJS,NextJS,NodeJS stacks open to explore in RUST, JAVA , GO-LANG.
