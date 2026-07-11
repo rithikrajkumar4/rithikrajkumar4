@@ -1,37 +1,214 @@
-## Hi, I'm Rithik Rajkumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<div align="center">
 
+# Hi, I'm Rithik Rajkumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### I’m a Software Developer with 3+ years of experience building scalable backend systems and full-stack applications. My core stack is Node.js, MERN, PostgreSQL, and AWS. I love turning complex business problems into clean, modular, and performant solutions.!!!
+### Backend Engineer • Full Stack Developer • System Design Enthusiast
 
-### Over the years, I’ve engineered 10+ marketplace platforms handling rentals, bookings, and payments for 5,000+ monthly active users. From architecting secure REST APIs with RBAC and authentication, to integrating payment gateways like Stripe, Razorpay, and PayPal, to optimizing PostgreSQL queries for high-traffic endpoints I thrive where backend depth really matters.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+TypeScript+%7C+PostgreSQL;Building+Scalable+Systems;1000%2B+DSA+Problems+Solved;Always+Learning+Something+New"/>
 
-## Some highlights from my work:
-- Built an AI-powered peer-to-peer rental marketplace with microservices, load balancing, and multi-language support
-- Delivered a healthcare platform for Italian hospitals with SSR, CMS-driven content, and RBAC
-- Developed a multi-role artist & venue marketplace with GraphQL, BullMQ, Redis, and real-time messaging
-
-### Some Live Projects
-1. [Trvble](https://www.trvble.com/)
-2. [Rent Anything Store](https://www.rentanythingstore.com/)
-3. [Direzione](https://direzione.art/)
-4. [TurnoutHQ](https://www.turnouthq.com/)
-
-### Beyond shipping products, I actively mentor junior developers, review PRs, and care deeply about code quality and system design. I’ve also solved 1,000+ DSA problems and rank in the top 10% of Node.js coders on Credmark.
-
-- 🔭 I’m currently working in Javascript/Typescript with MongoDB,ExpressJS,ReactJS,NextJS,NodeJS stacks open to explore in RUST, JAVA , GO-LANG.
-- 🦾 Solved 1000+ Data Structure and Algorithm (DSA) questions in C++, Python, JAVA.
-- 🚀 Looking to collaborate with other developers🦖.
-- 🥅 2027 Goals: Expertise in handling millions of requests, contribute to Open Source projects and Having Fun 🍤!
-- 💙Hobbies: I listen to all kind of music(XO) and i binge-watch Animes, Movies and TV series!
-<br>
+</div>
 
 ---
 
-<br>
+# 💻 About Me
+
+```text
+rithik@github
+──────────────────────────────────────────────
+
+OS           : macOS
+Role         : Software Developer (3+ Years)
+Location     : Delhi, India
+Languages    : JavaScript, TypeScript, C++, Python, Java
+Backend      : Node.js, Express.js, NestJS
+Frontend     : React, Next.js
+Database     : PostgreSQL, MongoDB, Redis
+Cloud        : AWS, Docker
+Architecture : REST APIs, GraphQL, Microservices
+Currently    : Learning Java, Spring Boot & Distributed Systems
+
+```
+
+---
+
+# 🚀 What I Do
+
+- ⚡ Build scalable backend systems
+- 🏗 Design REST APIs & Microservices
+- 💳 Payment Gateway Integrations
+- 🔐 Authentication & RBAC
+- 📦 PostgreSQL Query Optimization
+- 🚀 Redis Caching
+- 📬 Queue Systems (BullMQ)
+- ☁ AWS Deployments
+- 📈 Performance Optimization
+
+---
+
+# 🌟 Featured Projects
+
+## 🛒 Trvble
+AI Powered Rental Marketplace
+
+**Tech**
+```
+Next.js
+Node.js
+MongoDB
+Redis
+BullMQ
+AWS
+```
+
+✔ Marketplace
+
+✔ AI Search
+
+✔ Booking System
+
+✔ Payments
+
+✔ Multi-language
+
+---
+
+## 🎭 Direzione
+
+Artist • Venue • Agent Marketplace
+
+```
+Next.js
+Node.js
+GraphQL
+Redis
+BullMQ
+PostgreSQL
+```
+
+Features
+
+- Real-time Messaging
+- Stripe
+- Booking System
+- Admin Dashboard
+
+---
+
+## 🏥 Italian Healthcare Platform
+
+```
+Next.js
+Strapi CMS
+PostgreSQL
+AWS
+```
+
+- CMS
+- SSR
+- RBAC
+- Performance Optimizations
+
+---
+
+## 📦 Rent Anything Store
+
+Marketplace Platform
+
+```
+Node.js
+MongoDB
+AWS
+Cloudinary
+```
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+
+---
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)
+
+---
+
+### Database
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+
+---
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+
+---
+
+# 🏆 Achievements
+
+🏅 3+ Years Experience
+
+🏅 30+ Live Projects
+
+🏅 1000+ DSA Problems
+
+🏅 Backend & Full Stack Developer
+
+🏅 PostgreSQL Performance Optimization
+
+🏅 AWS Cloud Deployments
+
+---
+
+# 🌐 Live Products
+
+- https://www.trvble.com
+- https://www.direzione.art
+- https://www.turnouthq.com
+- https://www.rentanythingstore.com
+
+---
+
+# 📫 Connect With Me
+
 <p align="center">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-<br>
+
+<a href="https://github.com/rithikrajkumar4">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rrk4/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rithikrajkumar@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Building scalable software one commit at a time."
+
+<img src="https://komarev.com/ghpvc/?username=rithikrajkumar4&style=for-the-badge"/>
+
+</div>
